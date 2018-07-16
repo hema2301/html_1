@@ -1,0 +1,168 @@
+.cover img{
+  height: 200px;
+  width: 940px;
+  margin-top: 80px;
+  margin-bottom: 5px;
+  background-position: relative;
+  border-radius: 5
+}
+
+  header{
+  overflow: hidden;
+  background-color: #CCFFCC;
+  border-radius: 10px;
+  position: absolute;
+  top:0;
+}
+#Hotel{
+  float:left;
+  margin: 10px 10px 10px;
+  margin-top: 20px;
+  font-size: 40px;
+  color: gray;
+}
+nav{
+  float: right;
+  margin-top: 20px;
+}
+nav li{
+  display: inline;
+  padding-left: 10px;
+  font-size: 20px;
+}
+nav a{
+  text-decoration: underline;
+  color:gray;
+}
+nav a:hover{
+  color: blue;
+}
+nav li:last-child{
+  padding-right: 10px;
+}
+.index2 img{
+  border-radius: 5px;
+   height: 250px;
+  width: 290px;
+}
+.index2 section{
+  margin-top: 0px;
+  border: 3px solid gray;
+  padding: 3px;
+  background-color: #CCFFCC;
+  border-radius: 5px;
+}
+#hero{
+  font-size: 50px;
+  margin-top: 220px;
+  font-family: "Ewert", sans-serif;
+  }
+.text-block{
+  position: absolute; 
+  font-family: "Jacques Francois Shadow", sans-serif;
+  margin-left: 210px;
+  color: white;
+}
+ section h2{
+  text-decoration: underline;
+  letter-spacing: 1px;
+  margin-bottom: 3px;
+  margin-top: 5px;
+  color:green;
+}
+section h4{
+  letter-spacing: 0px;
+  margin-bottom: 33px;
+  margin-top: 33px;
+  color:gray;
+}
+section p{
+  font-size:20px;
+  font-weight: 500;
+  margin-top: 29px;
+  line-height: 1.8;
+  color:#990;
+  font-family: sans-serif;
+  text-align: justify;
+}
+.column1{
+  overflow: hidden;
+}
+.column1 h2{
+  color: orange;
+}
+.column1 img{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  height:400px;
+  width: 617px;
+  border-radius: 5px;
+  }
+.column2{
+  height: 401px;
+  margin-top: 73px;
+}
+.column2 p{
+    font-family: sans-serif;
+    font-size: 15px;
+    color:#444;
+    text-align: center;
+}
+.column2 section{
+  border: 3px solid #e5e5e5;
+}
+.column1 h3{
+  font-size: 20x;
+  font-weight: 700;
+  font-family: arial;
+  letter-spacing: 1px;
+  margin-top: 20px;
+  color:#333;
+}
+footer{
+  clear:both;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  border-top: 1px solid #d1d1d1;
+  padding-top: 15px;
+  color: #7e7e7e;
+}
+footer p{
+  float: left;
+  margin-left: 20px;
+}
+footer ul{
+  float:right;
+}
+footer li{
+  display: inline;
+  padding-left: 10px;
+}
+footer a{
+  float: right;
+  margin-right: 3px;
+  text-decoration: none;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+.fa-youtube {
+    background: #BB0000;
+    color: white;
+}
